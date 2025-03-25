@@ -1,12 +1,7 @@
 import { NextPage } from 'next'
 
 const Home: NextPage = () => {
-  return (
-    <div className="border bg-red-500 text-white">
-      <h1></h1>
-      <p></p>
-    </div>
-  )
+  return <div>Olá!</div>
 }
 
 Home.displayName = 'Home'
