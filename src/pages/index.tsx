@@ -1,7 +1,7 @@
 import { NextPage } from 'next'
 
 const Home: NextPage = () => {
-  return <div>Olá!</div>
+  return <></>
 }
 
 Home.displayName = 'Home'
